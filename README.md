@@ -1,5 +1,7 @@
 # 📘 CSTA Classroom Series
 
+![CSTA Classroom Banner](./assets/banner.png)
+
 Welcome to **CSTA Classroom**, a growing collection of hands-on, grade-appropriate computer science lessons aligned with the **CSTA K–12 Computer Science Standards**.
 
 This open resource is designed to support:
