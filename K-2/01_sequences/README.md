@@ -33,7 +33,8 @@ Use [**ScratchJr**](https://www.scratchjr.org/) to build a project where the cat
 
 ## 🧰 Resources
 - [Code.org Pre-Reader Express](https://code.org/learn)
-- Printable: `K-2_Activity_Guide_Sequences.pdf`
+- [Download the Sequence Activity Guide (PDF)](./K-2/01_sequences/K-2_Activity_Guide_Sequences.pdf)
+
 
 ---
 
